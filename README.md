@@ -5,7 +5,7 @@
 
 - [PNU_3991_AR](https://github.com/mohammadkad/PNU_3991_AR)
 - [Resume](https://mohammadkad.github.io/resume/index.html) 
-- [SOP]()
+- [SOP](https://github.com/mohammadkad/mohammadkad.github.io/blob/master/SOP_Mohammad_Kadkhodaei.pdf)
 - [Certificates](https://github.com/mohammadkad/mohammadkad.github.io/tree/master/Certificates)
 - [GitHub](https://github.com/mohammadkad)
 
