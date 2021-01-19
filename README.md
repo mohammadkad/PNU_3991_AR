@@ -8,6 +8,7 @@
 # شماره دانشجویی : 980199588
 
 - [PNU_3991_AR](https://github.com/mohammadkad/PNU_3991_AR)
+- [Resume + SOP](https://mohammadkad.github.io/ResumeSOP/index.html)
 - [Resume](https://mohammadkad.github.io/resume/index.html) 
 - [SOP](https://github.com/mohammadkad/mohammadkad.github.io/blob/master/SOP_Mohammad_Kadkhodaei.pdf)
 - [Certificates](https://github.com/mohammadkad/mohammadkad.github.io/tree/master/Certificates)
