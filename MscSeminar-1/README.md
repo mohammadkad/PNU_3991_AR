@@ -33,7 +33,10 @@
 
 ## بخش دروس ارشد
 - [گزارش تحقیق درس سمینار](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/Report__MohammadKadkhodaei_NoCopy.pdf)
+- [گزارش نسخه ورد](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/Report__MohammadKadkhodaei.docx)
+
 - [فایل ارائه](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/PowerPoint_MohammadKadkhodaei.pdf)
+- [نسخه پاورپوینت](https://github.com/mohammadkad/PNU_3991_AR/blob/main/_General/PowerPoint_MohammadKadkhodaei.pptx)
 
 
 ---------
